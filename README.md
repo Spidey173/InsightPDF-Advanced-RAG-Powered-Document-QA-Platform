@@ -233,11 +233,8 @@ Access the unified application at `http://localhost:7860`.
 ![InsightPDF Main Dashboard](docs/images/dashboard.png)
 *Figure 1: Main document upload interface and analytics dashboard.*
 
-![Document Q&A and Citation View](docs/images/qa-citations-placeholder.png)
-*Figure 2: Interactive document Q&A interface displaying inline page citations and grounding score.*
-
 ![Document Insights Panel](docs/images/insights-placeholder.png)
-*Figure 3: Extracted entity overview, key highlights, and document metadata summary.*
+*Figure 2: Extracted entity overview, key highlights, and document metadata summary.*
 
 ## Example Usage
 
