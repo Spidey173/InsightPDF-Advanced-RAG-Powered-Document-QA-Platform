@@ -230,7 +230,7 @@ Access the unified application at `http://localhost:7860`.
 
 ## Screenshots
 
-![InsightPDF Main Dashboard](docs/images/dashboard-placeholder.png)
+![InsightPDF Main Dashboard](docs/images/dashboard.png)
 *Figure 1: Main document upload interface and analytics dashboard.*
 
 ![Document Q&A and Citation View](docs/images/qa-citations-placeholder.png)
