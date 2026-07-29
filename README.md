@@ -2,6 +2,12 @@
 
 InsightPDF is an open-source, full-stack Retrieval-Augmented Generation (RAG) platform designed for document analysis, vector-based semantic search, and grounded Q&A over PDF, DOCX, and TXT files. It combines a FastAPI backend implementing hybrid search (BM25 + FAISS) with Cross-Encoder reranking, post-generation factual grounding verification, and a multi-provider LLM gateway (Google Gemini, Groq, OpenRouter, GitHub Models), paired with a Next.js 16 TypeScript web interface.
 
+## Live Demo
+
+A live interactive demo of InsightPDF is hosted on Hugging Face Spaces:
+- **Application URL**: [https://huggingface.co/spaces/Spidey173/insightpdf](https://huggingface.co/spaces/Spidey173/insightpdf)
+
+
 ## Key Features
 
 - **Multi-Format Document Ingestion**: Parses PDF, DOCX, and TXT files using `PyPDF` and `python-docx`, with automated fallback to `PyMuPDF` and `EasyOCR` for scanned document pages.
